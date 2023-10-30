@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="citizensapi-2.0.33-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../citizensapi-2.0.33-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

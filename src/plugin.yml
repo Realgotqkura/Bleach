@@ -1,0 +1,7 @@
+main: com.realgotqkura.bleach.main.main
+author: Realgotqkura
+version: 1.0
+name: Bleach
+
+commands:
+  bleachCharacter:
